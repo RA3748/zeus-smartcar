@@ -1,4 +1,4 @@
-# 🚗 Zeus SmartCar V1
+# 🚗 Zeus SmartCar
 
 Smart car berbasis **ESP8266 (NodeMCU)** yang bisa dikontrol lewat browser — support mode manual via WebSocket maupun mode otomatis line follower dengan deteksi rintangan.
 
@@ -23,7 +23,7 @@ Smart car berbasis **ESP8266 (NodeMCU)** yang bisa dikontrol lewat browser — s
 | **Motor Driver L298N** | Driver motor DC dual channel |
 | **Sensor Ultrasonik HC-SR04/05** | Deteksi jarak / rintangan |
 | **IR Line Follower (x2)** | Sensor garis kiri & kanan |
-| **Motor DC (x2)** | Motor penggerak roda |
+| **Motor DC (x4)** | Motor penggerak roda |
 
 ---
 
